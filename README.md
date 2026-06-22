@@ -3,5 +3,3 @@ Book My Movie is a simple movie ticket booking system built using Java and MySQL
 
 
 
-
-isanketpatil1712@gmail.com
